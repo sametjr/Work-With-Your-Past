@@ -1,0 +1,1741 @@
+fileFormatVersion: 2
+guid: 306721c90dd90ec4ea4279ec60adb623
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yeni Proje_0
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 2600
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776a39534d95ee44cbfb4f302f5da85b
+      internalID: 310837841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_1
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 2600
+        width: 205
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe0c27a33b52524095492721ffa5cf5
+      internalID: -1888626501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_2
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 2600
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921bf021545643f43b2d374f93184ed9
+      internalID: 1072514686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_3
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 2600
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89727da01aaf98b459d3628034b2d241
+      internalID: -1400671149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_4
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 2600
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cf684f9a01e16418b7266f1ed55668
+      internalID: 39794464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_5
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 2600
+        width: 203
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7e3d603c7dfef45ba720b464255bc6
+      internalID: 895159524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_6
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 2600
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb4a460b6d51aa42a7f8c954eef8aa8
+      internalID: -941909430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_7
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2603
+        width: 208
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061c6ac31c726ba47afbe21046973c31
+      internalID: -1734228634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_8
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 2600
+        width: 208
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4690454c9acc8ab48be3834b91d540f5
+      internalID: -1927495244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_9
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 2600
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000581da5f3f1574986fcddef5e5ef0d
+      internalID: 1183105095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_10
+      rect:
+        serializedVersion: 2
+        x: 3473
+        y: 2600
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f1229eba66eb5429ea1cfe57e9482b
+      internalID: -1488902513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_11
+      rect:
+        serializedVersion: 2
+        x: 3731
+        y: 2600
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e271bd617ce266543bc6c6f82ef56c3f
+      internalID: -1671047820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_12
+      rect:
+        serializedVersion: 2
+        x: 3986
+        y: 2600
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9b70fd650ca2f43b4d984c901fe4b6
+      internalID: -1476106736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_13
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 2600
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fc2cebdad1cb74e88b4f8bf0024ba7
+      internalID: -394530718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_14
+      rect:
+        serializedVersion: 2
+        x: 4499
+        y: 2600
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24804b84ef7942949938791dcc1e1ab7
+      internalID: 2053004325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_15
+      rect:
+        serializedVersion: 2
+        x: 4756
+        y: 2600
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e6d0521f71e684dbdcb2430f8a92e2
+      internalID: -764737577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_16
+      rect:
+        serializedVersion: 2
+        x: 5008
+        y: 2603
+        width: 210
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef12ed8f09978642bd5ad038d020ef5
+      internalID: 2002341197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_17
+      rect:
+        serializedVersion: 2
+        x: 5266
+        y: 2600
+        width: 208
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b9b38232bf0c443950a3949d1ee364
+      internalID: 1845023727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_18
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 2278
+        width: 721
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd83704195a45b747a85025f1d1038fa
+      internalID: 419752240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_19
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 1970
+        width: 480
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d44db1cce8bde742a19f4f629ab8c7b
+      internalID: 1923614647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_20
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 2278
+        width: 724
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef129bebee2e94418b3c7b200477fb7
+      internalID: 607609216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_21
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 2278
+        width: 721
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdacaff67de5ec488ea373b25f92f1e
+      internalID: -1458190934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_22
+      rect:
+        serializedVersion: 2
+        x: 4115
+        y: 1970
+        width: 480
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd06d83ed5eb79547b6849c93e798203
+      internalID: 1537538026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_23
+      rect:
+        serializedVersion: 2
+        x: 4751
+        y: 2278
+        width: 723
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4a0f75f891d214b99b4a6c433d442d
+      internalID: 1376305367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_24
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1970
+        width: 721
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaccbaf9c9aec1a4a8f9e9bcbaa626be
+      internalID: -431433981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_25
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 2073
+        width: 721
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0591350a634f04943ae3db277b455794
+      internalID: 711236830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_26
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 1970
+        width: 721
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcbd5c51d2a60b4bbf11a0d119b6170
+      internalID: -295847739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_27
+      rect:
+        serializedVersion: 2
+        x: 4765
+        y: 2073
+        width: 721
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5a5b289cf63aa438960415640fc3e5
+      internalID: 607380104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_28
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1792
+        width: 1389
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e679b06af88fbd4aa45158378250f75
+      internalID: -2062444249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_29
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 1868
+        width: 721
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06225c7a79c00764dbf71e5557402fe2
+      internalID: -1998628661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_30
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 1792
+        width: 1389
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e0fc9bce2e5ef4d9db7c1cb991661d
+      internalID: -1100799159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_31
+      rect:
+        serializedVersion: 2
+        x: 4765
+        y: 1868
+        width: 721
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e44e1836f4d1a247a0ea4fea4e350f8
+      internalID: -2025336388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_32
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1648
+        width: 1389
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163e5df3572f62f4f88c8ab3acffed6c
+      internalID: -1218157567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_33
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 1660
+        width: 721
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73024b1236639540b32529fdd238b67
+      internalID: 1893258254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_34
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 1648
+        width: 1389
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa859a8ea791f9d4f8747f174df58ebc
+      internalID: 1271903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_35
+      rect:
+        serializedVersion: 2
+        x: 4765
+        y: 1660
+        width: 721
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feee891567c2644498bd74ce52d67a5e
+      internalID: 1121919709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_36
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1150
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b711737e576f24b92f7f16b70c3f49
+      internalID: -1431441144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_37
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1150
+        width: 205
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c7f4321a9ef584caabfdfd00209731
+      internalID: 482051869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_38
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1150
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afa64e1147b1624897cb2b1d931c55b
+      internalID: -266040399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_39
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 1150
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a167ce7403a54143ad0070484377b15
+      internalID: -458557522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_40
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1150
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38046de2e03d7140b3c7dbe276ddd36
+      internalID: 1114503879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_41
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1150
+        width: 203
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0c86a738075ef4aaedadc9df8126d3
+      internalID: -1535250610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_42
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 1150
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c14e8f1f83eb242916e1da98a177c8
+      internalID: -1477368443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_43
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1153
+        width: 208
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f664d50ff6b65844495183d0f733cf43
+      internalID: -141002281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_44
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 1153
+        width: 208
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c4700a3e6883749b2c67866540dbf6
+      internalID: 2109445858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_45
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 1150
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a7d032b204da547b7c27498f63c394
+      internalID: -1299594426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_46
+      rect:
+        serializedVersion: 2
+        x: 3473
+        y: 1150
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a764e9e627168a74ca9e217db9c2da2d
+      internalID: 1566557543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_47
+      rect:
+        serializedVersion: 2
+        x: 3731
+        y: 1150
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965bc49921b35174f853da902e8c8877
+      internalID: 1264360678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_48
+      rect:
+        serializedVersion: 2
+        x: 3986
+        y: 1150
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4977b1ead7d2abb48aa20d341012dafd
+      internalID: 1408079528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_49
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 1150
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa92860d36ce2949a643f28e0340c44
+      internalID: 1648190197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_50
+      rect:
+        serializedVersion: 2
+        x: 4499
+        y: 1150
+        width: 204
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a049c7dd2ba69149b68756de790bb57
+      internalID: -959052396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_51
+      rect:
+        serializedVersion: 2
+        x: 4756
+        y: 1150
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583e2a3b283ce5b48ae6990af4ed7b8e
+      internalID: 752624972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_52
+      rect:
+        serializedVersion: 2
+        x: 5008
+        y: 1153
+        width: 210
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b0e4030479a164c8fc32abbc015583
+      internalID: 857578835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_53
+      rect:
+        serializedVersion: 2
+        x: 5266
+        y: 1153
+        width: 208
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bec07e2876f9e4183bce2a53e4954c
+      internalID: 974851918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_54
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 828
+        width: 721
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb1abb5a61d2974f8228caffa04e16d
+      internalID: 1311006284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_55
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 520
+        width: 480
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291bf6a86d880e74897d90b6085b3129
+      internalID: 234393988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_56
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 828
+        width: 724
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f19e8fdadf260f45853b388d3c91cce
+      internalID: -664500498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_57
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 828
+        width: 721
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d194c7e93a0c65f499124bf5b34bb972
+      internalID: 1212441140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_58
+      rect:
+        serializedVersion: 2
+        x: 4115
+        y: 520
+        width: 480
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8394995060898b4c8d6bb7214d6a5fb
+      internalID: 1737109377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_59
+      rect:
+        serializedVersion: 2
+        x: 4751
+        y: 828
+        width: 723
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9124ef9b6d2df4b48822ebcf9b70ea19
+      internalID: -587715638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_60
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 520
+        width: 721
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96f68d4b586a5b49938a272a7dd0e20
+      internalID: 855318918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_61
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 623
+        width: 721
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b436fe11284beb4b8a77ddda1cb025d
+      internalID: 35543503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_62
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 520
+        width: 721
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d524d435f02a84db7523b5c111c418
+      internalID: 398086760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_63
+      rect:
+        serializedVersion: 2
+        x: 4765
+        y: 623
+        width: 721
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e903e59a494031648bc1340f1ad1f79d
+      internalID: -1363877621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_64
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 341
+        width: 1389
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec2d4166a67e5a4495afcaa160a3210
+      internalID: 1405063091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_65
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 418
+        width: 721
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19a8c8654a00504fb94b6e9742a01fb
+      internalID: 1657393855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_66
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 341
+        width: 1389
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d850b809339204dba566733f582b53
+      internalID: -646890726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_67
+      rect:
+        serializedVersion: 2
+        x: 4765
+        y: 418
+        width: 721
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed2bbfb79a154648af17e05c14d1b94
+      internalID: -1737108897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_68
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 198
+        width: 1389
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e793700f2bd5bb948bd89a0fee00b732
+      internalID: -1717934942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_69
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 209
+        width: 721
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e56b0af73c92d4384329a7c657763a
+      internalID: -1240993914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_70
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 198
+        width: 1389
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6f2555b34f59241a16d05c418428eb
+      internalID: 1367249642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_71
+      rect:
+        serializedVersion: 2
+        x: 4765
+        y: 209
+        width: 721
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bf400497467d643accbd4ef5935ffe
+      internalID: 1820184486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeni Proje_72
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 0
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36d5c51101fe9046a41339dceb37eac
+      internalID: -1292616107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Yeni Proje_56: -664500498
+      Yeni Proje_71: 1820184486
+      Yeni Proje_19: 1923614647
+      Yeni Proje_35: 1121919709
+      Yeni Proje_49: 1648190197
+      Yeni Proje_63: -1363877621
+      Yeni Proje_2: 1072514686
+      Yeni Proje_0: 310837841
+      Yeni Proje_3: -1400671149
+      Yeni Proje_20: 607609216
+      Yeni Proje_28: -2062444249
+      Yeni Proje_38: -266040399
+      Yeni Proje_18: 419752240
+      Yeni Proje_39: -458557522
+      Yeni Proje_54: 1311006284
+      Yeni Proje_47: 1264360678
+      Yeni Proje_64: 1405063091
+      Yeni Proje_13: -394530718
+      Yeni Proje_70: 1367249642
+      Yeni Proje_68: -1717934942
+      Yeni Proje_73: -1079771363
+      Yeni Proje_37: 482051869
+      Yeni Proje_55: 234393988
+      Yeni Proje_44: 2109445858
+      Yeni Proje_31: -2025336388
+      Yeni Proje_15: -764737577
+      Yeni Proje_50: -959052396
+      Yeni Proje_24: -431433981
+      Yeni Proje_40: 1114503879
+      Yeni Proje_36: -1431441144
+      Yeni Proje_1: -1888626501
+      Yeni Proje_26: -295847739
+      Yeni Proje_9: 1183105095
+      Yeni Proje_52: 857578835
+      Yeni Proje_16: 2002341197
+      Yeni Proje_43: -141002281
+      Yeni Proje_34: 1271903
+      Yeni Proje_10: -1488902513
+      Yeni Proje_12: -1476106736
+      Yeni Proje_25: 711236830
+      Yeni Proje_60: 855318918
+      Yeni Proje_22: 1537538026
+      Yeni Proje_53: 974851918
+      Yeni Proje_7: -1734228634
+      Yeni Proje_6: -941909430
+      Yeni Proje_66: -646890726
+      Yeni Proje_58: 1737109377
+      Yeni Proje_57: 1212441140
+      Yeni Proje_59: -587715638
+      Yeni Proje_30: -1100799159
+      Yeni Proje_72: -1292616107
+      Yeni Proje_8: -1927495244
+      Yeni Proje_69: -1240993914
+      Yeni Proje_41: -1535250610
+      Yeni Proje_23: 1376305367
+      Yeni Proje_33: 1893258254
+      Yeni Proje_32: -1218157567
+      Yeni Proje_4: 39794464
+      Yeni Proje_5: 895159524
+      Yeni Proje_11: -1671047820
+      Yeni Proje_17: 1845023727
+      Yeni Proje_14: 2053004325
+      Yeni Proje_67: -1737108897
+      Yeni Proje_62: 398086760
+      Yeni Proje_51: 752624972
+      Yeni Proje_42: -1477368443
+      Yeni Proje_45: -1299594426
+      Yeni Proje_48: 1408079528
+      Yeni Proje_65: 1657393855
+      Yeni Proje_61: 35543503
+      Yeni Proje_27: 607380104
+      Yeni Proje_46: 1566557543
+      Yeni Proje_21: -1458190934
+      Yeni Proje_29: -1998628661
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
